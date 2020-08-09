@@ -1,0 +1,5 @@
+JavaBean:封装数据
+config：存放配置类的包
+crawler：存放爬虫代码的包
+util：存放工具类的包
+generator：存放数据生成代码的包

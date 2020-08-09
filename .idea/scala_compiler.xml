@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="scala_spark_study">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\Software\Java_workspace\IdeaProjects\covid_bigdata\scala_spark_study\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 2" modules="dataprocess">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\Software\Java_workspace\IdeaProjects\covid_bigdata\dataprocess\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+  </component>
+</project>
